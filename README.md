@@ -11,3 +11,20 @@
 
 <strong>Task 3:</strong> Develop a program that takes a filename and a word, then displays the occurrences of that word in each line of the text file, adhering to a specific format.<br>
 <hr>
+<b>Lab06</b> : <br>
+<strong>Task 1:</strong> Implement generic Stack and Queue classes in C++, providing standard LIFO (Last-in First-out) and FIFO (First-in first-out) structures respectively, with functions for manipulation, access, and status operations.
+<strong>Task 2:</strong> Implement generic Stack and Queue classes in C++, providing standard LIFO (Last-in First-out) and FIFO (First-in first-out) structures respectively, with functions for manipulation, access, and status operations.
+<hr>
+<b>Lab07</b> : The program checks expressions in a file for proper delimiter pairing, utilizing a stack-based approach to determine validity. It outputs 'Valid' or 'Invalid' for each expression accordingly.
+<hr>
+<b>Lab08</b> : The provided C++ program reads an image matrix from 'input.txt', locates a black pixel specified by coordinates, and recursively erases the object it belongs to by replacing its connected components with white pixels (0s). The resulting image is then outputted to the console.
+<hr>
+<b>Lab10</b> : defines classes for managing a list of books, allowing insertion, search, replacement, and removal operations. It also includes functionality to read book details from a file and displays the list of books in both forward and reverse order.
+<hr>
+<b>Lab11</b> : StudentBST, facilitates the management of student records using Binary Search Trees. It allows insertion, search, and traversal operations along with deletion of student records based on unique identifiers, providing efficient data organization and retrieval.
+<hr>
+<b>Lab12</b> : The implemented class for Max Heap manages student records based on CGPA, ensuring the student with the highest CGPA is at the root. Member functions allow insertion, removal, and display of student records while maintaining the heap structure efficiently.
+<hr>
+<b>Lab13</b> : The HashTable class implements a dynamic hash table for storing names with collision resolution using linear probing. It provides functions for insertion, search, removal, display, and calculating load factor, along with a menu-driven driver program for user interaction.
+<hr>
+ 
